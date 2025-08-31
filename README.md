@@ -44,7 +44,7 @@ I’m a **student at Michigan State University** passionate about creating impac
 [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![Wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com/)
-
+<!--
 #
 
 ### 📋 My Stats
@@ -52,7 +52,7 @@ I’m a **student at Michigan State University** passionate about creating impac
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgarg001&layout=compact&langs_count=10&custom_title=Languages&theme=transparent#gh-light-mode-only)](https://github.com/DhruvGarg001#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgarg001&layout=compact&langs_count=10&custom_title=Languages&theme=tokyonight#gh-dark-mode-only)](https://github.com/DhruvGarg001#gh-dark-mode-only)
-
+-->
 #
 
 ### 📱 Connect with Me
