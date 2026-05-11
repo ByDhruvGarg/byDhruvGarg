@@ -24,17 +24,6 @@
 
 <br/>
 
-> Writing code. Figuring the rest out.
->
-> Currently studying CS + Business at **Michigan State University**.
-> Working on products that are compliance-first, design-led, and built to last.
-
-<br/>
-
----
-
-<br/>
-
 **AI & WORKFLOW**
 
 [![Claude](https://go-skill-icons.vercel.app/api/icons?i=claude)](https://claude.ai/)
